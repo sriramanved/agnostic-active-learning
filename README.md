@@ -1,1 +1,1 @@
-# agnostic-selective-sampling
+# agnostic-active-learning
